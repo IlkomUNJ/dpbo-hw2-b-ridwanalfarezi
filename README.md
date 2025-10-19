@@ -282,7 +282,7 @@ The system creates the following data files for persistence:
 
 ## Students (the person you taught to complete the assignments)
 
-1. (To be filled by student)
+1. Haviz Fachrian Albar
 
 ## AI Assistance
 
